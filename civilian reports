@@ -1,10 +1,10 @@
 {
-    "name": "name",
-    "channel_id": "",
-    "token": "",
+    "name": "Department of Public Safety",
+    "channel_id": "441222495702351884",
+    "token": "MjE4ODcyMTEyOTYwNjM0ODgw.DcvUXg.sh0dT7xIoa-u8pOCCQbvjP_HMmY",
     "avatar": null,
-    "guild_id": "",
-    "id": "",
+    "guild_id": "437417679037661194",
+    "id": "441222656365166594",
     "user": {
         "username": "",
         "discriminator": "",
